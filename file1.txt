@@ -1,0 +1,1 @@
+. It is useful to manage data and includes Unicode printable 
